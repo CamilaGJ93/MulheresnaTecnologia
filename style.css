@@ -9,6 +9,14 @@
             padding: 20px;
             margin-top: 20px;
         }
+
+        /*RESPONSIVIDADE*/
+        @media screen and (max-width: 800px){
+
+            body {
+                margin-right: 0;
+            }
+
         /* Estilos personalizados para a imagem */
         .ada-image {
             max-width: 30%;
